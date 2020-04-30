@@ -1,0 +1,6 @@
+C:\Users\Software - PC\Desktop\Archivos Matias\Terminal de Pagos Mendoza\Cable Mendoza\Entidades\bin\Debug\Entidades.dll
+C:\Users\Software - PC\Desktop\Archivos Matias\Terminal de Pagos Mendoza\Cable Mendoza\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Software - PC\Desktop\Archivos Matias\Terminal de Pagos Mendoza\Cable Mendoza\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Software - PC\Desktop\Archivos Matias\Terminal de Pagos Mendoza\Cable Mendoza\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Software - PC\Desktop\Archivos Matias\Terminal de Pagos Mendoza\Cable Mendoza\Entidades\obj\Debug\Entidades.dll
+C:\Users\Software - PC\Desktop\Archivos Matias\Terminal de Pagos Mendoza\Cable Mendoza\Entidades\obj\Debug\Entidades.pdb
